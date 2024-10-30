@@ -1,0 +1,937 @@
+,playerName2,predicted_pointsBasedOnAverage,playerName,playerTeam,predicted_pointsBasedOnLastWeek
+0,A,0.0,,,
+1,Abde,2.0,,,
+2,Abdon,2.0,,,
+3,Abner,3.0,,,
+4,Abqar,4.0,,,
+5,"Acuna, M",3.0,,,
+6,Adria,0.0,,,
+7,"Adu-ares, Malcom",1.0,,,
+8,"Agoume, Lucien",4.0,,,
+9,"Aguirrezabala, Julen",0.0,,,
+10,Aidoo,2.0,,,
+11,"Akhomach, Ilias",2.0,,,
+12,"Alaba, David",5.0,,,
+13,Albiol,4.0,,,
+14,"Alcaraz, R",5.0,,,
+15,"Alderete, O",3.0,,,
+16,"Alejo, I",4.0,,,
+17,"Alena, Carlos",2.0,,,
+18,Alex,2.0,,,
+19,"Alkain, Xeber",1.0,,,
+20,"Allende, Tadeo",3.0,,,
+21,"Almena, Iker",0.0,,,
+22,"Alonso, Marcos",2.0,,,
+23,"Altimira, Adria",2.0,Melendo,Granada,3.0
+24,"Altimira, Sergi",2.0,,,
+25,"Alvarez, Gaston",4.0,,,
+26,"Alvarez, Joseda",0.0,,,
+27,Alvaro,4.0,,,
+28,"Amallah, Selim",3.0,,,
+29,Ancelotti,0.0,,,
+30,Ander,2.0,,,
+31,"Ander-olasagasti, Jon",1.0,,,
+32,Andre,3.0,,,
+33,Andrei,2.0,,,
+34,"Angileri, Fabrizio",1.0,,,
+35,"Arambarri, Mauro",3.0,,,
+36,"Araujo, Julian",3.0,,,
+37,"Araujo, R",4.0,,,
+38,"Arbol, Matias",0.0,,,
+39,Areso,3.0,,,
+40,"Arezo, Matias",2.0,,,
+41,Aridane,3.0,,,
+42,"Arnaiz, Jose",2.0,,,
+43,Arnau,2.0,,,
+44,Arribas,4.0,,,
+45,"Arthuer, Williams",5.0,,,
+46,"Aspas, Iago",4.0,,,
+47,"Astralaga, Ander",0.0,,,
+48,"Azpilicueta, Cesar",3.0,,,
+49,"B, Alex",4.0,,,
+50,Baba,3.0,,,
+51,"Bade, Loic",5.0,,,
+52,"Bailly, Eric",4.0,"Miquel, I",Granada,4.0
+53,Bakambu,2.0,,,
+54,"Balde, Alex",4.0,Pellistri,Granada,4.0
+55,Balliu,4.0,,,
+56,"Bamba, Jonathan",5.0,,,
+57,"Baptistao, Leo",3.0,,,
+58,"Baraja, Ruben",0.0,,,
+59,"Barja, Kike",2.0,,,
+60,Barrenetxea,3.0,,,
+61,"Barrios-rivas, Pablo",4.0,,,
+62,Bartra,2.0,,,
+63,"Batalla, Augusto",5.0,,,
+64,Bebe,1.0,,,
+65,"Becker, Sheraldo",2.0,,,
+66,Bellerin,4.0,,,
+67,"Bellingham, Jude",6.0,,,
+68,"Benavidez, Carlos",2.0,,,
+69,"Benitez, Rafa",0.0,,,
+70,"Berenguer, Alex",3.0,,,
+71,"Blanco, Antonio",4.0,,,
+72,"Blind, Daley",5.0,,,
+73,"Bordalas, Jose",0.0,,,
+74,"Boye, Lucas",4.0,,,
+75,Brahim,3.0,,,
+76,"Bravo, C",5.0,,,
+77,Budimir,4.0,"Gumbau, Gerard",Granada,3.0
+78,"Bueno, Manu",0.0,,,
+79,"C, Fernando",1.0,,,
+80,"C, Iza",4.0,,,
+81,"C-v, Santi",2.0,,,
+82,"Callejon, Jose",2.0,,,
+83,Camavinga,4.0,,,
+84,Camello,2.0,,,
+85,Cancelo,5.0,,,
+86,Canizares,0.0,,,
+87,"Canos, Sergi",2.0,,,
+88,Capoue,2.0,,,
+89,Cardenas,0.0,,,
+90,"Cardona, Sergi",5.0,,,
+91,"Cardoso, Joao",6.0,,,
+92,"Carmona, J",2.0,,,
+93,"Carrillo, Coke",0.0,,,
+94,Carvajal,5.0,,,
+95,"Carvalho, William",2.0,,,
+96,"Casado, Marc",0.0,,,
+97,Catena,4.0,,,
+98,"Ceballos, Dani",2.0,"Torrente, Raul",Granada,0.0
+99,Centelles,2.0,,,
+100,Cervi,2.0,,,
+101,Chadi,4.0,,,
+102,Chavarria,2.0,,,
+103,Chimy,3.0,,,
+104,Christensen,3.0,,,
+105,Chumi,3.0,,,
+106,Chust,2.0,,,
+107,"Ciss, Pathe",3.0,,,
+108,"Clua, Silvi",0.0,,,
+109,Coco,4.0,,,
+110,Copete,2.0,,,
+111,"Coquelin, Francis",3.0,,,
+112,"Corbeanu, Theo",0.0,,,
+113,"Correa, Angel",2.0,,,
+114,"Correia, Thierry",5.0,,,
+115,"Costa, Jaume",2.0,,,
+116,"Couto, Yan",4.0,,,
+117,"Crespo, Miguel",2.0,,,
+118,"Cubarsi, Pau",2.0,,,
+119,Cuellar,0.0,,,
+120,Cuenca,3.0,,,
+121,"Curbelo, E",1.0,,,
+122,"D-t, R",2.0,,,
+123,Dakonam,5.0,"Uzuni, Myrto",Granada,3.0
+124,"Darder, S",4.0,,,
+125,"David, Soria",6.0,,,
+126,"De-galarreta, R",5.0,,,
+127,"De-zarate, Gonzalez",1.0,,,
+128,"Depay, Memphis",2.0,,,
+129,"Diakhaby, Mouctar",4.0,,,
+130,"Diallo, Selu",0.0,"Arezo, Matias",Granada,1.0
+131,"Diao, Assane",2.0,,,
+132,Dimitrievski,5.0,,,
+133,"Dmitrovic, Marko",3.0,,,
+134,"Dominguez, C",2.0,,,
+135,"Dominguez, Mario",0.0,,,
+136,"Dotor, Carlos",2.0,,,
+137,"Douvikas, Tasos",2.0,,,
+138,"Dovbyk, Artem",3.0,,,
+139,"Duarte, Domingos",2.0,,,
+140,"Duarte, R",3.0,,,
+141,"Duro, Hugo",4.0,,,
+142,"Egiluz, Unai",0.0,,,
+143,"Elustondo, Aritz",2.0,,,
+144,Embarba,3.0,,,
+145,Escalante,4.0,,,
+146,"Escandell, Aaron",0.0,,,
+147,"Espino, A",5.0,,,
+148,"F, Raul",2.0,,,
+149,Fabio,0.0,,,
+150,Falcao,1.0,,,
+151,Fali,5.0,,,
+152,Fekir,3.0,,,
+153,"Felix, Joao",3.0,,,
+154,"Femenia, Kiko",2.0,,,
+155,"Fernandes, Guilherme",0.0,,,
+156,"Fernandez, Aitor",2.0,"Hongla, Martin",Granada,4.0
+157,"Fernández, Carlos",2.0,,,
+158,"Fornals, P",7.0,,,
+159,"Fort, Hector",1.0,,,
+160,Foulquier,3.0,,,
+161,"Foyth, Juan",5.0,,,
+162,"Fraga, Aitor",0.0,,,
+163,Fran,3.0,,,
+164,Francisco,4.0,,,
+165,Fuidias,0.0,,,
+166,"Fuzato, Daniel",0.0,,,
+167,"G, Edgar",4.0,,,
+168,"G, Hugo",2.0,,,
+169,"Galan, Javi",2.0,,,
+170,"Garcia, Aleix",5.0,,,
+171,"Garcia, Borja",0.0,,,
+172,"Garcia, Dani",2.0,,,
+173,"Garcia, David",5.0,,,
+174,"Garcia, Eric",4.0,,,
+175,"Garcia, Kike",2.0,,,
+176,"Garcia, Luis",0.0,,,
+177,"Garcia, Raul",1.0,,,
+178,"Garcia, Ruben",2.0,,,
+179,"Garcia, Unai",2.0,,,
+180,"Garcia-de-albeniz, Imanol",1.0,,,
+181,"Garitano, Gaizka",0.0,,,
+182,"Gasiorowski, Yarek",0.0,,,
+183,Gavi,5.0,"Rubio, Miguel",Granada,3.0
+184,Gaya,5.0,,,
+185,"Gazzaniga, Paulo",5.0,,,
+186,Gerard,4.0,,,
+187,"Gil, David",2.0,,,
+188,Gimenez,3.0,,,
+189,"Gomez, Maxi",2.0,,,
+190,"Gomez, Moi",4.0,,,
+191,"Gomez, Unai",2.0,,,
+192,"Gomis, Antonio",0.0,,,
+193,"Gonzalez, Giovanni",4.0,,,
+194,"Gonzalez, Inaki",0.0,,,
+195,"Gozalbez, Pablo",0.0,,,
+196,"Greenwood, Mason",5.0,,,
+197,"Greif, D",0.0,,,
+198,Griezmann,5.0,,,
+199,Guaita,4.0,,,
+200,"Guardiola, Sergi",2.0,,,
+201,Gudelj,4.0,,,
+202,"Guedes, Goncalo",2.0,,,
+203,"Guerra, Javier",4.0,,,
+204,"Guevara, Ander",5.0,,,
+205,"Guiu, Marc",0.0,,,
+206,"Guler, Arda",1.0,,,
+207,"Gumbau, Gerard",4.0,,,
+208,"Gundogan, Ilkay",5.0,"Callejon, Jose",Granada,2.0
+209,Guridi,4.0,,,
+210,Guruzeta,4.0,,,
+211,Gutierrez,5.0,,,
+212,"H, Luis",4.0,,,
+213,"Haddadi, El",4.0,,,
+214,"Hagi, Ianis",2.0,,,
+215,Hermoso,5.0,,,
+216,"Hernandez, Javi",4.0,,,
+217,Herrando,2.0,,,
+218,Herrera,1.0,,,
+219,"Herrera, S",5.0,,,
+220,"Herrera, Yangel",5.0,,,
+221,"Herzog, Juan",2.0,,,
+222,"Hongla, Martin",3.0,,,
+223,Hugo,1.0,,,
+224,"I, Martinez",2.0,,,
+225,"Ibanez, Pablo",2.0,,,
+226,Ibrahima,2.0,,,
+227,"Iglesias, Juan",2.0,,,
+228,Ilaix,2.0,,,
+229,Imanol alguacil,0.0,,,
+230,"Iranzo, Ruben",0.0,,,
+231,Isco,6.0,,,
+232,Isi,5.0,,,
+233,Jagoba arrasate,0.0,"Ruiz, Sergio",Granada,3.0
+234,Jailson,3.0,,,
+235,"Januzaj, Adnan",1.0,,,
+236,Jaume,0.0,,,
+237,Javi,3.0,,,
+238,Javier aguirre,0.0,,,
+239,"Jong, De",5.0,,,
+240,"Jordan, Joan",2.0,,,
+241,Jorgensen,5.0,,,
+242,"Jose, Willian",2.0,,,
+243,Joselu,3.0,,,
+244,"Jozwiak, Kamil",1.0,,,
+245,Juan,2.0,,,
+246,Juanlu,2.0,,,
+247,Juanmi,2.0,,,
+248,Kepa,3.0,,,
+249,Kirian,5.0,,,
+250,"Kochen, Diego",0.0,,,
+251,Koke,4.0,,,
+252,"Kostis, Ilias",0.0,,,
+253,"Kouame, Rominigue",2.0,,,
+254,Kounde,4.0,,,
+255,"Kroos, Toni",4.0,,,
+256,"Kubo, Take",5.0,,,
+257,"La-torre, De",4.0,Ricard,Granada,2.0
+258,"Lamela, E",2.0,,,
+259,"Langa, Bruno",3.0,,,
+260,"Larin, Cyle",2.0,,,
+261,"Latasa, Juan",2.0,,,
+262,Lato,2.0,,,
+263,Ledesma,6.0,,,
+264,Lejeune,5.0,,,
+265,"Lekue, Inigo",3.0,,,
+266,"Lemar, Thomas",2.0,,,
+267,"Lemos, A",2.0,,,
+268,Lewandowski,4.0,,,
+269,"Lino, Samuel",3.0,,,
+270,"Llabres, Javi",1.0,"Miquel-bosch, Adria",Granada,0.0
+271,Loiodice,3.0,,,
+272,"Lopez, David",5.0,,,
+273,"Lopez, Diego",4.0,,,
+274,"Lopez, Fermin",2.0,,,
+275,"Lopez, Unai",3.0,,,
+276,"Lopy, Dion",4.0,,,
+277,Lozano,1.0,,,
+278,Luka,1.0,,,
+279,"Lukebakio, Dodi",3.0,,,
+280,"Luna, Daniel",0.0,,,
+281,Lunin,3.0,,,
+282,"Machis, D",2.0,,,
+283,Maffeo,3.0,,,
+284,"Maksimovic, Nemanja",5.0,,,
+285,Mamardashvili,5.0,,,
+286,"Mandi, Aissa",2.0,,,
+287,Manquillo,4.0,,,
+288,"Maouassa, Faitout",2.0,,,
+289,Marc,2.0,,,
+290,Marcao,2.0,Adria,Granada,0.0
+291,Marcelino,0.0,,,
+292,"Marcos, De",4.0,,,
+293,"Marcos, Llorente",4.0,,,
+294,"Mari, Alberto",1.0,,,
+295,Mariano,2.0,,,
+296,"Marin, Pablo",0.0,,,
+297,"Marin, Rafa",3.0,,,
+298,"Marino, D",1.0,,,
+299,"Marmol, Mika",5.0,"Medina, Alexander",Granada,0.0
+300,Marrero,1.0,,,
+301,Martin,0.0,,,
+302,"Martin, Ivan",4.0,,,
+303,"Martin, Jordi",3.0,,,
+304,"Martinez, Marc",0.0,,,
+305,Marvin,3.0,,,
+306,Mascarell,2.0,,,
+307,Mata,2.0,,,
+308,Maximiano,5.0,,,
+309,"Mayoral, Borja",4.0,"Batalla, Augusto",Granada,4.0
+310,"Mbaye, Mamadou",2.0,,,
+311,"Medina, Alexander",0.0,,,
+312,"Mejbri, Hannibal",0.0,,,
+313,Melendo,2.0,,,
+314,"Melero, Gonzalo",2.0,,,
+315,"Mendez, Brais",5.0,"Maouassa, Faitout",Granada,3.0
+316,"Mendez, Bruno",5.0,,,
+317,"Mendez, Diego",0.0,,,
+318,Mendy,4.0,"Martinez, Marc",Granada,0.0
+319,Mere,2.0,,,
+320,"Merino, Mikel",5.0,"Jozwiak, Kamil",Granada,1.0
+321,Mfulu,1.0,,,
+322,Michel,0.0,"Corbeanu, Theo",Granada,0.0
+323,Miguel,1.0,,,
+324,Militao,3.0,,,
+325,"Milla, L",5.0,,,
+326,"Milovanovic, Marko",2.0,,,
+327,Mingueza,4.0,,,
+328,"Miquel, I",4.0,,,
+329,"Miquel-bosch, Adria",0.0,,,
+330,"Mir, Rafa",2.0,,,
+331,Miranda,3.0,,,
+332,Modric,3.0,,,
+333,"Mojica, J",3.0,,,
+334,"Moldovan, Horatiu",0.0,,,
+335,"Moleiro, A",3.0,,,
+336,"Molina, Nahuel",3.0,,,
+337,"Moncayola, Jon",2.0,,,
+338,"Montes, Cesar",3.0,,,
+339,Morales,2.0,,,
+340,Morata,4.0,,,
+341,"Moreno, Alberto",2.0,,,
+342,Morlanes,2.0,,,
+343,"Mosquera, Cristhian",5.0,,,
+344,"Mosquera, Yerson",3.0,,,
+345,"Mumin, Abdul",2.0,,,
+346,Muniain,2.0,,,
+347,"Munoz, Iker",2.0,"Neva, C",Granada,0.0
+348,"Munoz, Javi",4.0,,,
+349,"Muriqi, Vedat",3.0,,,
+350,Nacho,3.0,,,
+351,"Nastasic, Matija",4.0,,,
+352,"Navarro, R",3.0,,,
+353,"Navas, Jesus",4.0,,,
+354,"Nesyri, En",4.0,,,
+355,"Neva, C",4.0,,,
+356,Nianzou,2.0,,,
+357,"Nteka, R",2.0,,,
+358,"Nunez, Unai",5.0,,,
+359,"Nyland, Orjan",5.0,,,
+360,O,4.0,,,
+361,Oblak,5.0,,,
+362,"Ocampo, Brian",2.0,,,
+363,Ocampos,4.0,,,
+364,Odriozola,1.0,,,
+365,"Oroz, Aimar",4.0,,,
+366,Oscar,3.0,,,
+367,"Ousou, Aiham",0.0,,,
+368,"Owono, Jesus",0.0,,,
+369,"Oyarzabal, Mikel",3.0,,,
+370,"Ozkacar, Cenk",2.0,,,
+371,P224919,4.0,"Puertas, Antonio",Granada,0.0
+372,P235227,5.0,,,
+373,P472145,3.0,,,
+374,"Pacheco, Jon",2.0,,,
+375,Paredes,5.0,,,
+376,"Parejo, Dani",4.0,,,
+377,"Paul, De",4.0,,,
+378,"Paulista, Gabriel",4.0,,,
+379,"Paz, Nico",0.0,,,
+380,"Pedraza, Alfonso",3.0,,,
+381,Pedri,4.0,,,
+382,Pedrosa,3.0,,,
+383,Pejino,2.0,,,
+384,"Pellegrini, Manuel",0.0,,,
+385,Pellegrino,0.0,,,
+386,Pellistri,4.0,,,
+387,"Pena, Inaki",2.0,,,
+388,"Pena, Ruben",4.0,,,
+389,Pepelu,5.0,,,
+390,"Perez, Ayoze",5.0,,,
+391,"Perez, Carles",2.0,,,
+392,"Perez, K",2.0,,,
+393,"Perrone, Maximo",3.0,,,
+394,Peter,2.0,,,
+395,Pezzella,5.0,,,
+396,"Piatkowski, Kamil",2.0,,,
+397,"Pimienta, Garcia",0.0,,,
+398,"Pineiro, Diego",0.0,,,
+399,"Pires, Lucas",3.0,,,
+400,Portu,2.0,,,
+401,Pozo,2.0,,,
+402,"Pozo, Jose",0.0,,,
+403,"Prados, Benat",2.0,,,
+404,"Pubill, Marc",4.0,,,
+405,"Puertas, Antonio",2.0,,,
+406,"Quintanilla, Ruben",0.0,,,
+407,"R, Aitor",3.0,,,
+408,"Radonjic, Nemanja",1.0,,,
+409,"Radovanovic, Aleksandar",3.0,,,
+410,"Raillo, A",4.0,,,
+411,"Rajkovic, Predrag",5.0,,,
+412,"Ramazani, L",3.0,Catena,Osasuna,1.0
+413,"Ramirez, B",1.0,,,
+414,"Ramos, Chris",4.0,,,
+415,"Ramos, Sergio",5.0,,,
+416,Raphinha,3.0,,,
+417,Raul,2.0,,,
+418,"Rebbach, Abderrahman",2.0,,,
+419,"Reina, Jose",0.0,,,
+420,Reinildo,2.0,,,
+421,Remiro,6.0,,,
+422,Ricard,4.0,,,
+423,"Rico, Diego",4.0,,,
+424,"Rioja, L",5.0,,,
+425,"Riquelme, R",2.0,,,
+426,"Ristic, Mihailo",3.0,,,
+427,"Rivero, C",0.0,,,
+428,"Rl, Juanpe",2.0,,,
+429,"Roberto, Sergi",2.0,,,
+430,Robertone,4.0,,,
+431,"Roca, Marc",4.0,,,
+432,Rodri,2.0,,,
+433,"Rodriguez, Dani",5.0,,,
+434,"Rodriguez, F",0.0,,,
+435,"Rodriguez, Guido",5.0,,,
+436,Rodrygo,4.0,,,
+437,Roger,4.0,Areso,Osasuna,5.0
+438,"Romero, Isaac",5.0,,,
+439,"Romeu, Oriol",2.0,,,
+440,"Roque, Vitor",2.0,,,
+441,"Rubio, Miguel",2.0,,,
+442,"Rudiger, Antonio",5.0,,,
+443,"Ruiz, Sergio",3.0,,,
+444,"S, Fede",2.0,,,
+445,"Sabaly, Youssouf",3.0,,,
+446,Sadiq,2.0,,,
+447,"Salas, Kike",2.0,,,
+448,"Samassekou, Diadie",2.0,,,
+449,Samu,4.0,,,
+450,Sanchez,3.0,,,
+451,"Sanchez, Manu",3.0,,,
+452,"Sanchez-flores, Quique",0.0,,,
+453,Sandro,3.0,,,
+454,"Santiago, Jesus",2.0,,,
+455,Saul,3.0,,,
+456,Savic,3.0,,,
+457,Savio,5.0,"Mojica, J",Osasuna,6.0
+458,Sedlar,5.0,,,
+459,"Silva, Andre",2.0,,,
+460,"Silva, Rui",4.0,,,
+461,Simeone,0.0,,,
+462,"Simeone, Giuliano",1.0,,,
+463,"Sinkgraven, Daley",1.0,,,
+464,Sivera,5.0,,,
+465,"Sobrino, Ruben",2.0,,,
+466,Sokratis,5.0,,,
+467,"Sola, Alex",3.0,,,
+468,"Solis, Jhon",1.0,,,
+469,Sorloth,3.0,,,
+470,Sory,2.0,,,
+471,"Sotelo, Hugo",1.0,,,
+472,"Soumare, Boubakary",4.0,,,
+473,"Sow, Djibril",3.0,,,
+474,"Stamatakis, Dimitrios",0.0,,,
+475,"Starfelt, Carl",5.0,,,
+476,"Stegen, Ter",5.0,,,
+477,"Strand-larsen, Jorgen",4.0,,,
+478,Stuani,2.0,,,
+479,"Suarez, Alex",4.0,,,
+480,"Suarez, Denis",2.0,Jagoba arrasate,Osasuna,0.0
+481,"Suarez, L",3.0,,,
+482,Suso,3.0,,,
+483,"Swedberg, Williot",1.0,,,
+484,Tapia,3.0,,,
+485,"Tchouameni, Aurelien",5.0,,,
+486,"Tenaglia, Nahuel",2.0,,,
+487,"Terrats, R",2.0,,,
+488,"Tierney, Kieran",3.0,,,
+489,"Torre, Pablo",2.0,,,
+490,"Torrente, Raul",2.0,,,
+491,"Torres, Ferran",2.0,,,
+492,"Torres, Oliver",3.0,,,
+493,"Torro, Lucas",3.0,,,
+494,"Traore, Bertrand",1.0,,,
+495,"Traore, Hamari",5.0,,,
+496,"Trejo, Oscar",2.0,,,
+497,Trigueros,1.0,,,
+498,"Tsygankov, Viktor",4.0,,,
+499,Turrientes,2.0,,,
+500,Unai,5.0,,,
+501,"Uzuni, Myrto",3.0,,,
+502,"Valencia, Pablo",0.0,,,
+503,Valery,2.0,,,
+504,Valjent,4.0,,,
+505,"Vallejo, Jesus",2.0,"Oroz, Aimar",Osasuna,7.0
+506,"Valles, A",6.0,,,
+507,Valverde,0.0,,,
+508,"Valverde, Federico",6.0,,,
+509,"Van-der-heyden, Siebe",1.0,,,
+510,"Vazquez, J",2.0,,,
+511,"Vazquez, Kevin",2.0,,,
+512,"Vazquez, Lucas",2.0,,,
+513,"Veliz, Alejo",1.0,,,
+514,"Vermeeren, Arthur",1.0,,,
+515,Vesga,3.0,,,
+516,"Vicente, Carlos",4.0,,,
+517,"Vidal, Nacho",1.0,,,
+518,"Vieites, F",2.0,,,
+519,"Viera, Jonathan",3.0,,,
+520,Villalibre,1.0,,,
+521,"Villar, G",3.0,,,
+522,"Villar, Ivan",2.0,,,
+523,Vinicius,4.0,,,
+524,Vivian,5.0,,,
+525,"Williams, Nico",5.0,,,
+526,"Witsel, Axel",5.0,,,
+527,Xavi,0.0,,,
+528,"Yamal, Lamine",3.0,,,
+529,"Yaremchuk, Roman",2.0,,,
+530,Yeray,3.0,,,
+531,Yeremi,3.0,,,
+532,Yuri,5.0,,,
+533,"Zakharyan, Arsen",2.0,,,
+534,Zaldua,2.0,,,
+535,"Zubeldia, Igor",5.0,,,
+536,Zubimendi,5.0,,,
+537,"de Frutos, Jorge",2.0,,,
+549,,,"Ibanez, Pablo",Osasuna,2.0
+562,,,"Valencia, Pablo",Osasuna,0.0
+583,,,Herrando,Osasuna,6.0
+604,,,"Munoz, Iker",Osasuna,0.0
+624,,,Raul,Osasuna,2.0
+649,,,"Fernandez, Aitor",Osasuna,0.0
+671,,,"Pena, Ruben",Osasuna,4.0
+694,,,"Moncayola, Jon",Osasuna,6.0
+719,,,"Herrera, S",Osasuna,7.0
+737,,,"Garcia, Unai",Osasuna,5.0
+762,,,"Garcia, David",Osasuna,6.0
+781,,,"Barja, Kike",Osasuna,0.0
+805,,,"Garcia, Ruben",Osasuna,2.0
+827,,,"Gomez, Moi",Osasuna,0.0
+850,,,Juan,Osasuna,2.0
+875,,,"Torro, Lucas",Osasuna,5.0
+900,,,Budimir,Osasuna,5.0
+921,,,Andrei,Rayo Vallecano,1.0
+945,,,Cardenas,Rayo Vallecano,0.0
+967,,,Alvaro,Rayo Vallecano,5.0
+992,,,Isi,Rayo Vallecano,4.0
+1033,,,Bebe,Rayo Vallecano,0.0
+1058,,,Dimitrievski,Rayo Vallecano,6.0
+1082,,,"D-t, R",Rayo Vallecano,2.0
+1102,,,Martin,Rayo Vallecano,0.0
+1126,,,Oscar,Rayo Vallecano,4.0
+1147,,,"Trejo, Oscar",Rayo Vallecano,2.0
+1171,,,Balliu,Rayo Vallecano,4.0
+1193,,,"Ciss, Pathe",Rayo Vallecano,4.0
+1218,,,Lejeune,Rayo Vallecano,4.0
+1257,,,Falcao,Rayo Vallecano,0.0
+1280,,,"Perez, K",Rayo Vallecano,4.0
+1305,,,Chavarria,Rayo Vallecano,2.0
+1327,,,"Mumin, Abdul",Rayo Vallecano,3.0
+1360,,,"Crespo, Miguel",Rayo Vallecano,0.0
+1383,,,Aridane,Rayo Vallecano,0.0
+1407,,,"Espino, A",Rayo Vallecano,5.0
+1431,,,"Lopez, Unai",Rayo Vallecano,1.0
+1455,,,"de Frutos, Jorge",Rayo Vallecano,0.0
+1479,,,Camello,Rayo Vallecano,3.0
+1519,,,Fran,Real Madrid,2.0
+1538,,,Camavinga,Real Madrid,6.0
+1555,,,"Ceballos, Dani",Real Madrid,0.0
+1580,,,Ancelotti,Real Madrid,0.0
+1620,,,"Tchouameni, Aurelien",Real Madrid,6.0
+1645,,,Brahim,Real Madrid,3.0
+1653,,,"Guler, Arda",Real Madrid,2.0
+1676,,,"Bellingham, Jude",Real Madrid,5.0
+1696,,,Kepa,Real Madrid,0.0
+1721,,,"Pineiro, Diego",Real Madrid,0.0
+1742,,,Carvajal,Real Madrid,6.0
+1787,,,Modric,Real Madrid,2.0
+1812,,,"Valverde, Federico",Real Madrid,6.0
+1837,,,"Vazquez, Lucas",Real Madrid,5.0
+1862,,,"Kroos, Toni",Real Madrid,6.0
+1879,,,Vinicius,Real Madrid,7.0
+1904,,,Rodrygo,Real Madrid,4.0
+1922,,,Mendy,Real Madrid,5.0
+1946,,,Joselu,Real Madrid,2.0
+1971,,,Lunin,Real Madrid,5.0
+1993,,,"Sobrino, Ruben",Cádiz,4.0
+2015,,,"Navarro, R",Cádiz,4.0
+2031,,,Chust,Cádiz,3.0
+2051,,,"Guardiola, Sergi",Cádiz,2.0
+2083,,,"Alcaraz, R",Cádiz,4.0
+2095,,,Juanmi,Cádiz,2.0
+2148,,,"Ocampo, Brian",Cádiz,0.0
+2164,,,Escalante,Cádiz,3.0
+2185,,,"Machis, D",Cádiz,0.0
+2205,,,Mere,Cádiz,0.0
+2230,,,"Ramos, Chris",Cádiz,3.0
+2253,,,"Gomez, Maxi",Cádiz,1.0
+2274,,,"Pires, Lucas",Cádiz,5.0
+2290,,,"Kouame, Rominigue",Cádiz,0.0
+2293,,,Pellegrino,Cádiz,0.0
+2295,,,"Ousou, Aiham",Cádiz,0.0
+2336,,,Zaldua,Cádiz,0.0
+2360,,,"Gil, David",Cádiz,0.0
+2383,,,Fali,Cádiz,5.0
+2408,,,"C, Iza",Cádiz,5.0
+2431,,,"Alejo, I",Cádiz,2.0
+2455,,,Alex,Cádiz,3.0
+2477,,,Ledesma,Cádiz,4.0
+2498,,,"Kubo, Take",Real Sociedad,6.0
+2522,,,"Galan, Javi",Real Sociedad,7.0
+2547,,,Turrientes,Real Sociedad,4.0
+2571,,,"Pacheco, Jon",Real Sociedad,4.0
+2597,,,Imanol alguacil,Real Sociedad,0.0
+2621,,,Sadiq,Real Sociedad,2.0
+2644,,,"Mendez, Brais",Real Sociedad,2.0
+2653,,,"Marin, Pablo",Real Sociedad,0.0
+2674,,,"Traore, Hamari",Real Sociedad,2.0
+2689,,,"Silva, Andre",Real Sociedad,2.0
+2712,,,"Ander-olasagasti, Jon",Real Sociedad,3.0
+2729,,,"Zakharyan, Arsen",Real Sociedad,4.0
+2750,,,Marrero,Real Sociedad,0.0
+2778,,,"De-zarate, Gonzalez",Real Sociedad,0.0
+2816,,,P224919,Real Sociedad,0.0
+2898,,,"Zubeldia, Igor",Real Sociedad,5.0
+2920,,,"Merino, Mikel",Real Sociedad,4.0
+2944,,,Remiro,Real Sociedad,5.0
+2964,,,Barrenetxea,Real Sociedad,3.0
+3005,,,Zubimendi,Real Sociedad,6.0
+3047,,,Pedrosa,Sevilla,1.0
+3071,,,"Dmitrovic, Marko",Sevilla,0.0
+3085,,,"Lamela, E",Sevilla,2.0
+3113,,,"Sanchez-flores, Quique",Sevilla,0.0
+3152,,,"Bade, Loic",Sevilla,6.0
+3175,,,"Sow, Djibril",Sevilla,5.0
+3188,,,"Nyland, Orjan",Sevilla,7.0
+3197,,,"Arbol, Matias",Sevilla,0.0
+3218,,,Juanlu,Sevilla,3.0
+3255,,,"Soumare, Boubakary",Sevilla,6.0
+3273,,,"Ramos, Sergio",Sevilla,7.0
+3291,,,"Romero, Isaac",Sevilla,7.0
+3295,,,"Mejbri, Hannibal",Sevilla,0.0
+3324,,,"Januzaj, Adnan",Sevilla,0.0
+3343,,,"Navas, Jesus",Sevilla,5.0
+3364,,,"Jordan, Joan",Sevilla,0.0
+3384,,,"Nesyri, En",Sevilla,5.0
+3409,,,Ocampos,Sevilla,7.0
+3431,,,"Torres, Oliver",Sevilla,4.0
+3469,,,Suso,Sevilla,2.0
+3483,,,"Acuna, M",Sevilla,7.0
+3508,,,"Rivero, C",Valencia,0.0
+3533,,,"Duro, Hugo",Valencia,5.0
+3558,,,Mamardashvili,Valencia,4.0
+3576,,,"Vazquez, J",Valencia,2.0
+3624,,,Pepelu,Valencia,6.0
+3647,,,"Ozkacar, Cenk",Valencia,4.0
+3670,,,"Amallah, Selim",Valencia,4.0
+3695,,,"Baraja, Ruben",Valencia,0.0
+3718,,,"Guerra, Javier",Valencia,5.0
+3743,,,Francisco,Valencia,5.0
+3767,,,"Mosquera, Cristhian",Valencia,4.0
+3777,,,"Iranzo, Ruben",Valencia,0.0
+3798,,,"Gozalbez, Pablo",Valencia,0.0
+3834,,,"Canos, Sergi",Valencia,1.0
+3853,,,"Yaremchuk, Roman",Valencia,0.0
+3862,,,"Mari, Alberto",Valencia,0.0
+3869,,,"Gasiorowski, Yarek",Valencia,0.0
+3872,,,Peter,Valencia,1.0
+3897,,,Jaume,Valencia,0.0
+3912,,,"Diakhaby, Mouctar",Valencia,0.0
+3931,,,Gaya,Valencia,3.0
+3971,,,Foulquier,Valencia,5.0
+3996,,,"G, Hugo",Valencia,3.0
+4021,,,Embarba,Almería,2.0
+4043,,,Baba,Almería,6.0
+4065,,,"G, Edgar",Almería,5.0
+4088,,,Pozo,Almería,0.0
+4112,,,Maximiano,Almería,7.0
+4133,,,Robertone,Almería,6.0
+4158,,,"C, Fernando",Almería,0.0
+4181,,,Centelles,Almería,5.0
+4229,,,"Ramazani, L",Almería,5.0
+4300,,,"Marino, D",Almería,0.0
+4311,,,"Viera, Jonathan",Almería,0.0
+4334,,,"Lopy, Dion",Almería,3.0
+4358,,,Arribas,Almería,4.0
+4368,,,"Pubill, Marc",Almería,6.0
+4389,,,"Milovanovic, Marko",Almería,2.0
+4399,,,"Garitano, Gaizka",Almería,0.0
+4403,,,"Radovanovic, Aleksandar",Almería,6.0
+4406,,,Luka,Almería,0.0
+4408,,,"Langa, Bruno",Almería,3.0
+4430,,,"Melero, Gonzalo",Almería,2.0
+4452,,,Lozano,Almería,4.0
+4474,,,"B, Alex", Villarreal,4.0
+4496,,,"C-v, Santi", Villarreal,4.0
+4515,,,"Mandi, Aissa", Villarreal,0.0
+4538,,,Cuenca, Villarreal,4.0
+4560,,,Sorloth, Villarreal,5.0
+4569,,,Marcelino, Villarreal,0.0
+4592,,,"Reina, Jose", Villarreal,0.0
+4617,,,"Femenia, Kiko", Villarreal,5.0
+4642,,,Jorgensen, Villarreal,5.0
+4696,,,"Akhomach, Ilias", Villarreal,6.0
+4703,,,"Mosquera, Yerson", Villarreal,5.0
+4729,,,Morales, Villarreal,1.0
+4734,,,"Guedes, Goncalo", Villarreal,2.0
+4742,,,"Coquelin, Francis", Villarreal,4.0
+4802,,,Trigueros, Villarreal,0.0
+4824,,,Gerard, Villarreal,4.0
+4851,,,Albiol, Villarreal,4.0
+4871,,,"Moreno, Alberto", Villarreal,1.0
+4915,,,Capoue, Villarreal,2.0
+4951,,,"Garcia, Kike",Alavés,0.0
+4958,,,"Simeone, Giuliano",Alavés,0.0
+4981,,,"Blanco, Antonio",Alavés,5.0
+5000,,,Abqar,Alavés,5.0
+5047,,,"Sola, Alex",Alavés,7.0
+5072,,,"Alkain, Xeber",Alavés,0.0
+5097,,,"Rebbach, Abderrahman",Alavés,1.0
+5144,,,"Owono, Jesus",Alavés,0.0
+5180,,,"Garcia, Luis",Alavés,0.0
+5204,,,"Marin, Rafa",Alavés,2.0
+5231,,,Samu,Alavés,5.0
+5252,,,"Hagi, Ianis",Alavés,1.0
+5257,,,"Vicente, Carlos",Alavés,2.0
+5281,,,P235227,Alavés,5.0
+5305,,,"Guevara, Ander",Alavés,4.0
+5329,,,"Duarte, R",Alavés,4.0
+5354,,,"Rioja, L",Alavés,6.0
+5378,,,Guridi,Alavés,5.0
+5402,,,Javi,Alavés,3.0
+5427,,,Sivera,Alavés,5.0
+5468,,,"Martin, Ivan",Girona,1.0
+5489,,,"Garcia, Eric",Girona,2.0
+5514,,,Fuidias,Girona,0.0
+5539,,,Gutierrez,Girona,2.0
+5600,,,Juan,Girona,0.0
+5624,,,Stuani,Girona,2.0
+5648,,,Valery,Girona,2.0
+5672,,,"Garcia, Aleix",Girona,2.0
+5696,,,"Rl, Juanpe",Girona,2.0
+5702,,,"Garcia, Borja",Girona,0.0
+5726,,,Arnau,Girona,0.0
+5751,,,"Couto, Yan",Girona,2.0
+5775,,,"Gazzaniga, Paulo",Girona,3.0
+5795,,,"Tsygankov, Viktor",Girona,2.0
+5843,,,Savio,Girona,2.0
+5867,,,"Torre, Pablo",Girona,2.0
+5889,,,"Dovbyk, Artem",Girona,1.0
+5912,,,"Solis, Jhon",Girona,2.0
+5937,,,Portu,Girona,1.0
+5959,,,"Paul, De",Atlético de Madrid,5.0
+5976,,,"Depay, Memphis",Atlético de Madrid,2.0
+6001,,,"Riquelme, R",Atlético de Madrid,1.0
+6012,,,Reinildo,Atlético de Madrid,2.0
+6037,,,Simeone,Atlético de Madrid,0.0
+6061,,,"Witsel, Axel",Atlético de Madrid,5.0
+6084,,,Morata,Atlético de Madrid,2.0
+6106,,,"Lino, Samuel",Atlético de Madrid,5.0
+6130,,,"Molina, Nahuel",Atlético de Madrid,3.0
+6145,,,"Barrios-rivas, Pablo",Atlético de Madrid,2.0
+6169,,,Hermoso,Atlético de Madrid,6.0
+6210,,,"Gomis, Antonio",Atlético de Madrid,0.0
+6219,,,"Moldovan, Horatiu",Atlético de Madrid,0.0
+6222,,,"Vermeeren, Arthur",Atlético de Madrid,0.0
+6243,,,"Paulista, Gabriel",Atlético de Madrid,5.0
+6267,,,Oblak,Atlético de Madrid,6.0
+6304,,,Savic,Atlético de Madrid,0.0
+6326,,,Koke,Atlético de Madrid,3.0
+6375,,,"Correa, Angel",Atlético de Madrid,2.0
+6400,,,Griezmann,Atlético de Madrid,5.0
+6425,,,"Marcos, Llorente",Atlético de Madrid,5.0
+6449,,,Marc,Las Palmas,1.0
+6466,,,Sandro,Las Palmas,4.0
+6487,,,Marvin,Las Palmas,5.0
+6511,,,"Cardona, Sergi",Las Palmas,6.0
+6536,,,"Suarez, Alex",Las Palmas,6.0
+6554,,,Fabio,Las Palmas,0.0
+6569,,,"Moleiro, A",Las Palmas,1.0
+6594,,,Loiodice,Las Palmas,2.0
+6619,,,"Valles, A",Las Palmas,7.0
+6654,,,Kirian,Las Palmas,6.0
+6692,,,Coco,Las Palmas,5.0
+6715,,,Pejino,Las Palmas,0.0
+6740,,,"Pimienta, Garcia",Las Palmas,0.0
+6764,,,"Munoz, Javi",Las Palmas,5.0
+6789,,,Herrera,Las Palmas,0.0
+6808,,,"Sinkgraven, Daley",Las Palmas,0.0
+6831,,,"Marmol, Mika",Las Palmas,6.0
+6846,,,"Araujo, Julian",Las Palmas,0.0
+6860,,,"Herzog, Juan",Las Palmas,0.0
+6887,,,Sory,Las Palmas,0.0
+6908,,,"Perrone, Maximo",Las Palmas,6.0
+6945,,,"Haddadi, El",Las Palmas,4.0
+6992,,,"Darder, S",Mallorca,4.0
+7018,,,Sanchez,Mallorca,5.0
+7043,,,"Rodriguez, Dani",Mallorca,5.0
+7069,,,Abdon,Mallorca,1.0
+7086,,,"Raillo, A",Mallorca,5.0
+7150,,,Morlanes,Mallorca,2.0
+7176,,,"Greif, D",Mallorca,0.0
+7199,,,Mascarell,Mallorca,6.0
+7224,,,"Gonzalez, Giovanni",Mallorca,5.0
+7242,,,"Muriqi, Vedat",Mallorca,4.0
+7267,,,Javier aguirre,Mallorca,0.0
+7293,,,Samu,Mallorca,1.0
+7318,,,Copete,Mallorca,0.0
+7344,,,"Rajkovic, Predrag",Mallorca,6.0
+7366,,,"Nastasic, Matija",Mallorca,4.0
+7416,,,"Van-der-heyden, Siebe",Mallorca,0.0
+7451,,,Cuellar,Mallorca,0.0
+7469,,,"Llabres, Javi",Mallorca,0.0
+7471,,,"Radonjic, Nemanja",Mallorca,2.0
+7495,,,"Costa, Jaume",Mallorca,6.0
+7519,,,"Vidal, Nacho",Mallorca,2.0
+7542,,,Lato,Mallorca,1.0
+7562,,,"De-galarreta, R",Athletic de Bilbao,5.0
+7588,,,"Aguirrezabala, Julen",Athletic de Bilbao,0.0
+7660,,,Valverde,Athletic de Bilbao,0.0
+7708,,,Ander,Athletic de Bilbao,2.0
+7733,,,Paredes,Athletic de Bilbao,6.0
+7757,,,"Garcia-de-albeniz, Imanol",Athletic de Bilbao,0.0
+7779,,,"Gomez, Unai",Athletic de Bilbao,3.0
+7800,,,"Adu-ares, Malcom",Athletic de Bilbao,2.0
+7821,,,"Prados, Benat",Athletic de Bilbao,0.0
+7847,,,Unai,Athletic de Bilbao,7.0
+7867,,,"Marcos, De",Athletic de Bilbao,5.0
+7892,,,"Lekue, Inigo",Athletic de Bilbao,0.0
+7912,,,Yuri,Athletic de Bilbao,6.0
+7936,,,O,Athletic de Bilbao,2.0
+7947,,,Yeray,Athletic de Bilbao,6.0
+7963,,,"Garcia, Dani",Athletic de Bilbao,0.0
+7988,,,Muniain,Athletic de Bilbao,3.0
+8013,,,"Garcia, Raul",Athletic de Bilbao,3.0
+8039,,,Villalibre,Athletic de Bilbao,2.0
+8062,,,"Arthuer, Williams",Athletic de Bilbao,6.0
+8086,,,"Berenguer, Alex",Athletic de Bilbao,3.0
+8107,,,Vesga,Athletic de Bilbao,5.0
+8185,,,Xavi,FC Barcelona,0.0
+8202,,,Raphinha,FC Barcelona,3.0
+8225,,,Lewandowski,FC Barcelona,3.0
+8249,,,Christensen,FC Barcelona,2.0
+8307,,,"Pena, Inaki",FC Barcelona,0.0
+8331,,,"Gundogan, Ilkay",FC Barcelona,3.0
+8354,,,"Yamal, Lamine",FC Barcelona,4.0
+8376,,,"Lopez, Fermin",FC Barcelona,2.0
+8406,,,"Kochen, Diego",FC Barcelona,0.0
+8417,,,"Casado, Marc",FC Barcelona,0.0
+8437,,,Cancelo,FC Barcelona,3.0
+8448,,,"Cubarsi, Pau",FC Barcelona,3.0
+8456,,,"Guiu, Marc",FC Barcelona,0.0
+8465,,,"Fort, Hector",FC Barcelona,0.0
+8502,,,"Jong, De",FC Barcelona,2.0
+8526,,,Kounde,FC Barcelona,3.0
+8541,,,"I, Martinez",FC Barcelona,4.0
+8555,,,Pedri,FC Barcelona,3.0
+8576,,,"Araujo, R",FC Barcelona,0.0
+8591,,,"Stegen, Ter",FC Barcelona,4.0
+8630,,,Rodri,Betis,2.0
+8652,,,"Silva, Rui",Betis,6.0
+8680,,,"Jose, Willian",Betis,6.0
+8699,,,"Carvalho, William",Betis,2.0
+8723,,,Pezzella,Betis,6.0
+8743,,,Bellerin,Betis,6.0
+8763,,,Abde,Betis,5.0
+8788,,,"Pellegrini, Manuel",Betis,0.0
+8854,,,"Altimira, Sergi",Betis,0.0
+8875,,,"Roca, Marc",Betis,6.0
+8893,,,"Vieites, F",Betis,0.0
+8910,,,Chadi,Betis,0.0
+8933,,,"Diao, Assane",Betis,0.0
+8940,,,Sokratis,Betis,5.0
+8945,,,"Cardoso, Joao",Betis,6.0
+8948,,,"Fornals, P",Betis,8.0
+8989,,,Chimy,Betis,2.0
+8998,,,Fekir,Betis,7.0
+9033,,,"R, Aitor",Betis,0.0
+9042,,,"Bravo, C",Betis,0.0
+9065,,,Miranda,Betis,6.0
+9083,,,Cervi,Celta de Vigo,0.0
+9108,,,"Sanchez, Manu",Celta de Vigo,0.0
+9132,,,"Dominguez, C",Celta de Vigo,4.0
+9154,,,"Villar, Ivan",Celta de Vigo,0.0
+9179,,,"Vazquez, Kevin",Celta de Vigo,1.0
+9227,,,Fran,Celta de Vigo,3.0
+9246,,,"Perez, Carles",Celta de Vigo,0.0
+9269,,,"La-torre, De",Celta de Vigo,3.0
+9294,,,"Strand-larsen, Jorgen",Celta de Vigo,3.0
+9318,,,"Aspas, Iago",Celta de Vigo,3.0
+9380,,,"Starfelt, Carl",Celta de Vigo,0.0
+9402,,,"Benitez, Rafa",Celta de Vigo,0.0
+9409,,,"Carrillo, Coke",Celta de Vigo,0.0
+9429,,,"Sotelo, Hugo",Celta de Vigo,1.0
+9452,,,"Douvikas, Tasos",Celta de Vigo,1.0
+9473,,,Guaita,Celta de Vigo,3.0
+9489,,,"Ristic, Mihailo",Celta de Vigo,4.0
+9495,,,Jailson,Celta de Vigo,3.0
+9498,,,Manquillo,Celta de Vigo,4.0
+9499,,,"Allende, Tadeo",Celta de Vigo,2.0
+9533,,,"Nunez, Unai",Celta de Vigo,4.0
+9557,,,Tapia,Celta de Vigo,6.0
+9582,,,Miguel,Celta de Vigo,0.0
+9607,,,Mingueza,Celta de Vigo,2.0
+9609,,,Ilaix,Getafe CF,1.0
+9634,,,"Alena, Carlos",Getafe CF,2.0
+9659,,,"Iglesias, Juan",Getafe CF,4.0
+9682,,,"Alderete, O",Getafe CF,4.0
+9705,,,"Rico, Diego",Getafe CF,3.0
+9723,,,"Carmona, J",Getafe CF,1.0
+9748,,,"Mayoral, Borja",Getafe CF,3.0
+9817,,,"Latasa, Juan",Getafe CF,0.0
+9840,,,"Bordalas, Jose",Getafe CF,0.0
+9865,,,"Fuzato, Daniel",Getafe CF,0.0
+9885,,,"Greenwood, Mason",Getafe CF,4.0
+9891,,,"Martin, Jordi",Getafe CF,4.0
+9896,,,"Santiago, Jesus",Getafe CF,0.0
+9921,,,"David, Soria",Getafe CF,5.0
+9943,,,Dakonam,Getafe CF,5.0
+9974,,,"Maksimovic, Nemanja",Getafe CF,4.0
+9997,,,Mata,Getafe CF,3.0
+10020,,,"Duarte, Domingos",Getafe CF,0.0
+10034,,,"Milla, L",Getafe CF,5.0
+10054,,,Oscar,Getafe CF,0.0
